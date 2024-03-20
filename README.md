@@ -6,6 +6,7 @@ This project implements an LSTM (Long Short-Term Memory) model to predict buy an
 ## Requirements
 - Python 3.12.2
 - Libraries listed in `requirements.txt`
+- Download Data (https://www.kaggle.com/datasets/patrickgendotti/btc-and-eth-1min-price-history?select=coinbaseUSD_1-min_data.csv)
 
 ## Installation
 1. Clone this repository:
